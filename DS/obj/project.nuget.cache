@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VEUlB+BySSk=",
+  "success": true,
+  "projectFilePath": "/home/wbj/Desktop/DS/DS/DS.csproj",
+  "expectedPackageFiles": [
+    "/home/wbj/.nuget/packages/microsoft.aspnetcore.openapi/9.0.11/microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "/home/wbj/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
