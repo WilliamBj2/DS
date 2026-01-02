@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/DS.Application/DS.Application.csproj" />
     <Project Path="src/DS.Domain/DS.Domain.csproj" />
+    <Project Path="src/DS.Infrastructure/DS.Infrastructure.csproj" />
+    <Project Path="src/DS.Web/DS.Web.csproj" />
   </Folder>
-  <Project Path="DS/DS.csproj" />
 </Solution>
