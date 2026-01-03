@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DS.Application/DS.Application.csproj" />
+    <Project Path="src/DS.Contracts/DS.Contracts.csproj" />
+    <Project Path="src/DS.Domain/DS.Domain.csproj" />
+    <Project Path="src/DS.Infrastructure/DS.Infrastructure.csproj" />
+    <Project Path="src/DS.Presentation/DS.Presentation.csproj" />
+    <Project Path="src/DS.Web/DS.Web.csproj" />
+  </Folder>
+</Solution>
